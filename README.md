@@ -1,5 +1,4 @@
 # Password-Generator-Application
-This is a simple command-line Password Generator application written in Python. It generates a random password based on the desired length provided by the user.
 
 # Features
 Random Password Generation: Generates a password containing a mix of uppercase and lowercase letters, digits, and punctuation characters.
